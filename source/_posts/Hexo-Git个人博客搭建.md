@@ -228,7 +228,7 @@ deploy:
 ​	在最后部署之前,先要安装`hexo-deployer`
 
 ```shell
-nom install hexo-deployer-git --save
+npm install hexo-deployer-git --save
 ```
 
 然后输入
