@@ -1,7 +1,7 @@
 ---
 title: logistic回归与softmax回归
 date: 2021-01-11 09:59:06
-tags:
+tags: [神经网络, DeepLearning]
 ---
 
 ## Logistic回归

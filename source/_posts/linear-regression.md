@@ -1,7 +1,7 @@
 ---
 title: linear-regression
 date: 2021-01-10 15:39:59
-tags:
+tags: [神经网络, DeepLearning]
 ---
 
 ## 机器学习之线性回归

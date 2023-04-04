@@ -1,7 +1,7 @@
 ---
 title: ANNs
 date: 2021-01-11 17:29:06
-tags:
+tags: [神经网络, DeepLearning]
 ---
 
 ## 人工神经网络

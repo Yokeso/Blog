@@ -1,7 +1,7 @@
 ---
 title: NaiveBayes
 date: 2021-01-11 17:30:04
-tags:
+tags: [神经网络, DeepLearning]
 ---
 
 ## 朴素贝叶斯
