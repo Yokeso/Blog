@@ -1,7 +1,7 @@
 ---
 title: linux驱动学习之驱动代码结构
 date: 2023-03-5 16:59:06
-tags: Linux驱动, linux
+tags: [Linux驱动, linux]
 ---
 
 # linux驱动学习：驱动代码结构

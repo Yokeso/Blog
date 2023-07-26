@@ -2,7 +2,7 @@
 title: CCFtab
 date: 2020-08-28 15:11:22
 tags:
-	-CCF
+	CCF
 ---
 
 ## 目录

@@ -1,9 +1,7 @@
 ---
 title: Hexo+Git个人博客搭建
 date: 2020-06-26 23:34:47
-tags:
-	-Hexo
-	-个人博客
+tags: [Hexo, 个人博客]
 ---
 
 # Hexo+Git个人博客搭建（一）

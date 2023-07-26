@@ -1,10 +1,7 @@
 ---
 title: OS-ch-2
 date: 2020-08-14 21:47:57
-tags:
-	-操作系统
-	-OS
-	-ch2
+tags: [OS, 操作系统, ch2]
 
 ---
 
