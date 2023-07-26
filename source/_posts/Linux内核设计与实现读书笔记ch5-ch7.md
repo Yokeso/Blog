@@ -1,5 +1,5 @@
 ---
-title: Linux内核设计与实现ch4  进程调度
+title: Linux内核设计与实现ch5-7 系统调用
 date: 2023-06-10 15:11:22
 tags: [Linux内核设计与实现, 系统调用, Linux内核]
 ---

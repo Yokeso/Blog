@@ -1,5 +1,5 @@
 ---
-title: Linux内核设计与实现ch4  进程调度
+title: Linux内核设计与实现ch10 内核同步方法
 date: 2023-06-18 15:11:22
 tags: [Linux内核设计与实现, 内核同步方法, Linux内核]
 ---
